@@ -1,0 +1,16 @@
+# Compiled program
+*.exe
+*.o
+
+# Local book data
+book1.dat
+linshi.dat
+book1_backup.dat
+linshi_backup.dat
+
+# Temporary source files
+Untitled-1.c
+
+# Editor and temporary files
+*~
+*.tmp
